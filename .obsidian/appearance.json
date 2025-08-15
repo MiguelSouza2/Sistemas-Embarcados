@@ -1,3 +1,5 @@
 {
-  "cssTheme": "ITS Theme"
+  "cssTheme": "ITS Theme",
+  "accentColor": "#406fba",
+  "theme": "obsidian"
 }

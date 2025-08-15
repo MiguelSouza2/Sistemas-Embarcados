@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anotações/Integração com csharp.md",
+                "file": "anotações/Integração com CSharp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integração com csharp"
+              "title": "Integração com CSharp"
             }
           }
         ],
@@ -196,19 +196,19 @@
   },
   "active": "3fa2f6ca12e49cac",
   "lastOpenFiles": [
+    "arquivos/Exemplo-arduino/Exemplo-arduino/bin/Debug/Exemplo-arduino.pdb",
+    "arquivos/Exemplo-arduino/Exemplo-arduino/bin/Debug/Exemplo-arduino.exe",
+    "arquivos/Exemplo-arduino/Exemplo-arduino/obj/Debug/Exemplo-arduino.pdb",
+    "arquivos/Exemplo-arduino/Exemplo-arduino/obj/Debug/Exemplo-arduino.exe",
+    "arquivos/Exemplo-arduino/Exemplo-arduino/obj/Debug/Exemplo-arduino.csproj.GenerateResource.Cache",
+    "arquivos/Exemplo-arduino/Exemplo-arduino/obj/Debug/Exemplo_arduino.Properties.Resources.resources",
+    "arquivos/Exemplo-arduino/Exemplo-arduino/obj/Debug/Exemplo_arduino.Form1.resources",
+    "arquivos/Exemplo-arduino/Exemplo-arduino/obj/Debug/Exemplo-arduino.csprojResolveAssemblyReference.cache",
     "material-de-aula/Aula 04 - 2025 Programando Arduino.pdf",
     "material-de-aula/Aula 03 - 2025 - Arduino.pdf",
     "material-de-aula/Aula 02 - 2025 Introducao Eletrica.pdf",
-    "material-de-aula/Aula 01 - 2025.pdf",
-    "material-de-aula/Aula 05 -  2025 Monitor Serial.pdf",
     "exercicios/08-08.md",
-    "anotações/Integração com csharp.md",
-    "arquivos/Exemplo-arduino/Exemplo-arduino/Form1.resx",
-    "arquivos/Exemplo-arduino/Exemplo-arduino/bin/Debug/Exemplo-arduino.vshost.exe",
-    "arquivos/Exemplo-arduino/Exemplo-arduino/bin/Debug/Exemplo-arduino.vshost.exe.config",
-    "arquivos/Exemplo-arduino/Exemplo-arduino/obj/Debug/Exemplo-arduino.csproj.FileListAbsolute.txt",
-    "arquivos/Exemplo-arduino/Exemplo-arduino/bin/Debug/Exemplo-arduino.exe.config",
-    "arquivos/Exemplo-arduino/Exemplo-arduino/obj/Debug/DesignTimeResolveAssemblyReferences.cache",
+    "anotações/Integração com CSharp.md",
     "README.md"
   ]
 }

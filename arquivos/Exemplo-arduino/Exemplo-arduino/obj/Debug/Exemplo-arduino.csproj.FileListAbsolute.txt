@@ -1,1 +1,9 @@
 C:\Users\miguel.isack\Documents\3B\MIGUEL_ISACK\Sistemas-Embarcados\arquivos\Exemplo-arduino\Exemplo-arduino\bin\Debug\Exemplo-arduino.exe.config
+C:\Users\miguel.isack\Documents\3B\MIGUEL_ISACK\Sistemas-Embarcados\arquivos\Exemplo-arduino\Exemplo-arduino\bin\Debug\Exemplo-arduino.exe
+C:\Users\miguel.isack\Documents\3B\MIGUEL_ISACK\Sistemas-Embarcados\arquivos\Exemplo-arduino\Exemplo-arduino\bin\Debug\Exemplo-arduino.pdb
+C:\Users\miguel.isack\Documents\3B\MIGUEL_ISACK\Sistemas-Embarcados\arquivos\Exemplo-arduino\Exemplo-arduino\obj\Debug\Exemplo-arduino.csprojResolveAssemblyReference.cache
+C:\Users\miguel.isack\Documents\3B\MIGUEL_ISACK\Sistemas-Embarcados\arquivos\Exemplo-arduino\Exemplo-arduino\obj\Debug\Exemplo_arduino.Form1.resources
+C:\Users\miguel.isack\Documents\3B\MIGUEL_ISACK\Sistemas-Embarcados\arquivos\Exemplo-arduino\Exemplo-arduino\obj\Debug\Exemplo_arduino.Properties.Resources.resources
+C:\Users\miguel.isack\Documents\3B\MIGUEL_ISACK\Sistemas-Embarcados\arquivos\Exemplo-arduino\Exemplo-arduino\obj\Debug\Exemplo-arduino.csproj.GenerateResource.Cache
+C:\Users\miguel.isack\Documents\3B\MIGUEL_ISACK\Sistemas-Embarcados\arquivos\Exemplo-arduino\Exemplo-arduino\obj\Debug\Exemplo-arduino.exe
+C:\Users\miguel.isack\Documents\3B\MIGUEL_ISACK\Sistemas-Embarcados\arquivos\Exemplo-arduino\Exemplo-arduino\obj\Debug\Exemplo-arduino.pdb
